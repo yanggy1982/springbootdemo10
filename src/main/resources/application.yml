@@ -1,0 +1,25 @@
+
+spring:
+  profiles:
+    active: dev
+  main:
+    banner-mode: "off"
+  http:
+    encoding:
+      force: true
+      charset: UTF-8
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    # jdbc:mysql://localhost:3306/test
+    url: jdbc:mysql://localhost:3306/ml_demo1?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+    username: root
+    password: 12345678
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  type-aliases-package: com.asiainfo.springbootdemo10.domain
+  mapper-locations: classpath:mapper/*Mapper.xml
+logging:
+  config: classpath:logback-spring.xml
+
+

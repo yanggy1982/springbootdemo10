@@ -1,0 +1,185 @@
+2020-04-24 11:48:22.630 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 25580 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 11:48:22.633 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 11:48:22.691 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 11:48:22.691 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 11:48:23.820 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 11:48:23.845 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 11:48:23.846 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 11:48:23.846 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 11:48:24.000 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 11:48:24.000 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1308 ms
+2020-04-24 11:48:24.173 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 11:48:24.339 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 11:48:24.370 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 11:48:24.395 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 11:48:24.398 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.501 seconds (JVM running for 4.49)
+2020-04-24 11:48:51.835 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 11:48:51.836 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 11:48:51.840 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2020-04-24 11:53:28.931 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 11964 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 11:53:28.933 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 11:53:28.971 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 11:53:28.972 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 11:53:29.799 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 11:53:29.808 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 11:53:29.809 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 11:53:29.809 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 11:53:29.895 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 11:53:29.896 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 924 ms
+2020-04-24 11:53:30.063 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 11:53:30.171 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 11:53:30.188 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 11:53:30.208 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 11:53:30.211 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 1.725 seconds (JVM running for 2.985)
+2020-04-24 11:53:37.398 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 11:53:37.399 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 11:53:37.405 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 11:59:47.263 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 11896 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 11:59:47.265 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 11:59:47.306 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 11:59:47.306 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 11:59:48.472 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 11:59:48.481 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 11:59:48.482 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 11:59:48.483 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 11:59:48.562 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 11:59:48.563 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1257 ms
+2020-04-24 11:59:48.704 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 11:59:49.199 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 11:59:49.219 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 11:59:49.238 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 11:59:49.240 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.442 seconds (JVM running for 3.761)
+2020-04-24 12:03:59.461 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 11432 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:03:59.464 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:03:59.502 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:03:59.502 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:04:00.559 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:04:00.566 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:04:00.567 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:04:00.567 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:04:00.656 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:04:00.656 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1154 ms
+2020-04-24 12:04:00.804 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:04:01.083 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 12:04:01.103 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:04:01.122 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 12:04:01.125 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.123 seconds (JVM running for 3.434)
+2020-04-24 12:05:10.067 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 12:05:10.068 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 12:05:10.074 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 6 ms
+2020-04-24 12:14:01.927 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 18136 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:14:01.930 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:14:01.971 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:14:01.972 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:14:03.008 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:14:03.016 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:14:03.017 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:14:03.017 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:14:03.101 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:14:03.102 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1130 ms
+2020-04-24 12:14:03.275 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:14:03.778 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:14:03.781 [restartedMain] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2020-04-24 12:14:03.842 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-24 12:17:02.204 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 20208 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:17:02.207 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:17:02.249 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:17:02.250 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:17:03.326 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:17:03.333 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:17:03.334 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:17:03.335 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:17:03.426 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:17:03.427 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1177 ms
+2020-04-24 12:17:05.189 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:17:05.322 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 12:17:05.345 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:17:05.365 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 12:17:05.368 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 3.647 seconds (JVM running for 4.951)
+2020-04-24 12:17:18.653 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 12:17:18.654 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 12:17:18.657 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2020-04-24 12:17:54.065 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 25404 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:17:54.067 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:17:54.107 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:17:54.108 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:17:55.177 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:17:55.184 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:17:55.185 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:17:55.185 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:17:55.280 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:17:55.280 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1172 ms
+2020-04-24 12:17:55.651 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:17:55.787 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 12:17:55.808 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:17:55.827 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 12:17:55.830 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.26 seconds (JVM running for 3.587)
+2020-04-24 12:18:26.640 [http-nio-8090-exec-10] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 12:18:26.641 [http-nio-8090-exec-10] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 12:18:26.650 [http-nio-8090-exec-10] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
+2020-04-24 12:18:26.671 [http-nio-8090-exec-10] INFO  c.a.springbootdemo10.controller.StaffController - getStaffList
+2020-04-24 12:42:07.948 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 14116 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:42:07.951 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:42:07.996 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:42:07.996 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:42:09.143 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:42:09.153 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:42:09.154 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:42:09.154 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:42:09.256 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:42:09.257 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1261 ms
+2020-04-24 12:42:09.643 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:42:09.788 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 12:42:09.810 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:42:09.831 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 12:42:09.833 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.404 seconds (JVM running for 3.795)
+2020-04-24 12:42:17.559 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 12:42:17.559 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 12:42:17.566 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
+2020-04-24 12:42:17.581 [http-nio-8090-exec-1] INFO  c.a.springbootdemo10.controller.StaffController - getStaffList
+2020-04-24 12:42:52.854 [Thread-10] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:42:57.724 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 10752 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:42:57.726 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:42:57.771 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:42:57.771 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:42:58.872 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:42:58.879 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:42:58.880 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:42:58.880 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:42:58.978 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:42:58.978 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1207 ms
+2020-04-24 12:42:59.360 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:42:59.495 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 12:42:59.517 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:42:59.537 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 12:42:59.539 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.324 seconds (JVM running for 3.661)
+2020-04-24 12:43:07.825 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 12:43:07.825 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 12:43:07.830 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+2020-04-24 12:43:07.845 [http-nio-8090-exec-1] INFO  c.a.springbootdemo10.controller.StaffController - getStaffList
+2020-04-24 12:43:07.891 [http-nio-8090-exec-1] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2020-04-24 12:45:10.282 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Starting Springbootdemo10Application on LAPTOP-L9PG52N8 with PID 20208 (D:\workspace\study\java\springbootdemo10\target\classes started by Administrator in D:\workspace\study\java\springbootdemo10)
+2020-04-24 12:45:10.285 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - The following profiles are active: dev
+2020-04-24 12:45:10.333 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-04-24 12:45:10.334 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-04-24 12:45:11.531 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8090 (http)
+2020-04-24 12:45:11.537 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:45:11.538 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-04-24 12:45:11.539 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-24 12:45:11.628 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring embedded WebApplicationContext
+2020-04-24 12:45:11.629 [restartedMain] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 1295 ms
+2020-04-24 12:45:12.009 [restartedMain] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-24 12:45:12.184 [restartedMain] INFO  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration - 
+
+Using generated security password: 9d7966f3-a17d-459d-bdb3-b657ff546109
+
+2020-04-24 12:45:12.273 [restartedMain] INFO  o.s.security.web.DefaultSecurityFilterChain - Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@17038496, org.springframework.security.web.context.SecurityContextPersistenceFilter@6a3b8a8, org.springframework.security.web.header.HeaderWriterFilter@5064c2ed, org.springframework.security.web.csrf.CsrfFilter@580f62b5, org.springframework.security.web.authentication.logout.LogoutFilter@55b157a2, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@17980ce5, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@3bafbd44, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@5e5b2365, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@b928429, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6f4575ba, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@56b76230, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6bc50ddc, org.springframework.security.web.session.SessionManagementFilter@2c14516c, org.springframework.security.web.access.ExceptionTranslationFilter@460f2956, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@16e72428]
+2020-04-24 12:45:12.306 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2020-04-24 12:45:12.329 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2020-04-24 12:45:12.349 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8090 (http) with context path '/demo10'
+2020-04-24 12:45:12.352 [restartedMain] INFO  c.a.springbootdemo10.Springbootdemo10Application - Started Springbootdemo10Application in 2.577 seconds (JVM running for 3.895)
+2020-04-24 12:45:18.669 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/demo10] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-24 12:45:18.670 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-24 12:45:18.677 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 7 ms
