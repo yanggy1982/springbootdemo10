@@ -12,6 +12,7 @@
 package com.asiainfo.springbootdemo10.controller;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 
 /**
  * 登陆控制器
@@ -21,5 +22,10 @@ import org.springframework.stereotype.Controller;
  */
 @Controller
 public class LoginController {
+
+    @GetMapping("login")
+    public String login(){
+        return "sys_loign";
+    }
 
 }
